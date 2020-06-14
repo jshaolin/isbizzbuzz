@@ -1,4 +1,4 @@
-# A FizzBuzz microserviceses
+# A FizzBuzz microservice
 
 ### How to use it:
 
